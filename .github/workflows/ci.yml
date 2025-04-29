@@ -30,6 +30,7 @@ jobs:
     with:
       package-path: .
       node-version: 'lts/*'
+      use-tsc: false
   github-codeql-analysis:
     if: >
       github.event_name == 'push'
