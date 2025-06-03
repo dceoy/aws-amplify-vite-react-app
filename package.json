@@ -36,7 +36,7 @@
     "@types/react": "^19.1.6",
     "@types/react-dom": "^19.1.5",
     "@typescript-eslint/eslint-plugin": "^8.31.1",
-    "@typescript-eslint/parser": "^8.33.0",
+    "@typescript-eslint/parser": "^8.33.1",
     "@vitejs/plugin-react-swc": "^3.10.0",
     "aws-cdk-lib": "^2.199.0",
     "constructs": "^10.4.2",
