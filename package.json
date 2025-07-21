@@ -40,7 +40,7 @@
     "@vitejs/plugin-react-swc": "^3.11.0",
     "aws-cdk-lib": "^2.206.0",
     "constructs": "^10.4.2",
-    "esbuild": "^0.25.6",
+    "esbuild": "^0.25.8",
     "eslint": "^9.31.0",
     "eslint-config-prettier": "^10.1.7",
     "eslint-plugin-prettier": "^5.5.1",
